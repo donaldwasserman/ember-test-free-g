@@ -1,6 +1,7 @@
-# ember-g-no-test
+# Ember Test Free `g`
 
-This README outlines the details of collaborating on this Ember addon.
+This addon provides the blueprints available for common Ember generators, without the
+annoying tests you need to go back and delete.
 
 ## Installation
 
