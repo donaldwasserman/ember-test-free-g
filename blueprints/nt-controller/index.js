@@ -1,7 +1,5 @@
 /* eslint-env node */
-'use strict';
 
 module.exports = {
-  name: 'ember-test-free-g',
-
+  description: 'Generates a controller.'
 };
