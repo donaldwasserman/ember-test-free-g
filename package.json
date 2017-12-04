@@ -1,7 +1,7 @@
 {
   "name": "ember-test-free-g",
   "version": "0.0.1",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Ember Cli Generators without tests you have to go back and delete.",
   "keywords": [
     "ember-addon"
   ],
