@@ -1,5 +1,5 @@
 {
-  "name": "ember-g-no-test",
+  "name": "ember-test-free-g",
   "version": "0.0.0",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [
@@ -19,7 +19,8 @@
   },
   "dependencies": {
     "ember-cli-babel": "^6.6.0",
-    "shelljs": "^0.7.8"
+    "shelljs": "^0.7.8",
+    "ember-cli-normalize-entity-name": "^1.0.0"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
