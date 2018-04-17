@@ -1,6 +1,6 @@
 {
   "name": "ember-test-free-g",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Ember Cli Generators without tests you have to go back and delete.",
   "keywords": [
     "ember-addon"
